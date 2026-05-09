@@ -204,6 +204,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aspirin.gtr/aspirin.gtr/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Aspiringtr/Aspiringtr/blob/master/snake-output/snake.svg" alt="Snake animation" />
 
 ###

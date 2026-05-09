@@ -202,8 +202,3 @@
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Aspiringtr/Aspiringtr/blob/master/snake-output/snake.svg" alt="Snake animation" />
-
-###
